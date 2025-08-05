@@ -1,0 +1,18 @@
+{
+    "Facebook": {
+        "email": "test@gmail.com",
+        "password": "password123?"
+    },
+    "Google": {
+        "email": "example@gmail.com",
+        "password": "google123456789"
+    },
+    "Amazon": {
+        "email": "Mehdix_17",
+        "password": "click123"
+    },
+    "Microsoft": {
+        "email": "mehdi.benchikh10@gmail.com",
+        "password": "m2e0h0d3i?"
+    }
+}
